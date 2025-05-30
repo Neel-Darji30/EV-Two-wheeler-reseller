@@ -1,4 +1,4 @@
-![frame_firefox_mac_dark (1)](![Home](https://github.com/user-attachments/assets/e3018c97-e948-4456-9b53-9b60dfcdf07b)
+![frame_firefox_mac_dark (1)]((https://github.com/user-attachments/assets/e3018c97-e948-4456-9b53-9b60dfcdf07b)
 )
 
 <h1 align="center">EV Two-Wheeler Reseller Website Project</h1>  
